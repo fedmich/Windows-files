@@ -1,0 +1,1 @@
+dir /OD /s *.exe > C:\temp\file.txt
