@@ -1,0 +1,421 @@
+ Volume in drive C is C Drive
+ Volume Serial Number is 
+
+ Directory of c:\Windows\System32
+
+21 Aug 2002  08:13 PM           189,952 WISPTIS.EXE
+03 Dec 2019  02:04 PM            37,864 TsWpfWrp.exe
+07 Dec 2019  03:39 AM           743,424 mspaint.exe
+07 Dec 2019  03:40 AM           165,888 notepad.exe
+07 Dec 2019  03:42 AM           194,048 psr.exe
+07 Dec 2019  03:46 AM            10,240 write.exe
+07 Dec 2019  03:47 AM           214,528 unregmp2.exe
+07 Dec 2019  05:09 PM            82,432 bootcfg.exe
+07 Dec 2019  05:09 PM           478,720 RMActivate_ssp_isv.exe
+07 Dec 2019  05:09 PM            62,976 TpmInit.exe
+07 Dec 2019  05:09 PM            48,640 tzutil.exe
+07 Dec 2019  05:09 PM            92,672 w32tm.exe
+07 Dec 2019  05:09 PM           113,152 fontview.exe
+07 Dec 2019  05:09 PM            68,096 RunLegacyCPLElevated.exe
+07 Dec 2019  05:09 PM            78,336 wlanext.exe
+07 Dec 2019  05:09 PM             9,728 systray.exe
+07 Dec 2019  05:09 PM            82,944 SystemPropertiesRemote.exe
+07 Dec 2019  05:09 PM            57,344 winver.exe
+07 Dec 2019  05:09 PM            82,944 SystemPropertiesProtection.exe
+07 Dec 2019  05:09 PM            82,944 SystemPropertiesComputerName.exe
+07 Dec 2019  05:09 PM            82,944 SystemPropertiesHardware.exe
+07 Dec 2019  05:09 PM            25,088 at.exe
+07 Dec 2019  05:09 PM            82,944 SystemPropertiesAdvanced.exe
+07 Dec 2019  05:09 PM            82,944 SystemPropertiesPerformance.exe
+07 Dec 2019  05:09 PM            82,944 SystemPropertiesDataExecutionPrevention.exe
+07 Dec 2019  05:09 PM             9,728 ctfmon.exe
+07 Dec 2019  05:09 PM           154,112 verifiergui.exe
+07 Dec 2019  05:09 PM            35,328 Netplwiz.exe
+07 Dec 2019  05:09 PM            43,008 winrs.exe
+07 Dec 2019  05:09 PM            24,064 winrshost.exe
+07 Dec 2019  05:09 PM            23,552 Register-CimProvider.exe
+07 Dec 2019  05:09 PM            54,784 Windows.WARP.JITService.exe
+07 Dec 2019  05:09 PM            30,720 PackagedCWALauncher.exe
+07 Dec 2019  05:09 PM            38,400 bthudtask.exe
+07 Dec 2019  05:09 PM           186,880 bitsadmin.exe
+07 Dec 2019  05:09 PM           128,512 fsquirt.exe
+07 Dec 2019  05:09 PM            19,968 chkntfs.exe
+07 Dec 2019  05:09 PM            23,040 chkdsk.exe
+07 Dec 2019  05:09 PM            10,752 dllhst3g.exe
+07 Dec 2019  05:09 PM           113,152 mtstocom.exe
+07 Dec 2019  05:09 PM            26,624 RpcPing.exe
+07 Dec 2019  05:09 PM            10,240 dcomcnfg.exe
+07 Dec 2019  05:09 PM            41,472 compact.exe
+07 Dec 2019  05:09 PM            68,096 makecab.exe
+07 Dec 2019  05:09 PM            29,184 extrac32.exe
+07 Dec 2019  05:09 PM            41,984 rdrleakdiag.exe
+07 Dec 2019  05:09 PM            53,248 expand.exe
+07 Dec 2019  05:09 PM            21,504 perfhost.exe
+07 Dec 2019  05:09 PM            34,304 ddodiag.exe
+07 Dec 2019  05:09 PM            34,304 unlodctr.exe
+07 Dec 2019  05:09 PM            43,008 lodctr.exe
+07 Dec 2019  05:09 PM            77,824 nslookup.exe
+07 Dec 2019  05:09 PM            12,288 efsui.exe
+07 Dec 2019  05:09 PM            39,936 cipher.exe
+07 Dec 2019  05:09 PM            39,424 proquota.exe
+07 Dec 2019  05:09 PM            89,600 UserAccountControlSettings.exe
+07 Dec 2019  05:09 PM            23,552 shutdown.exe
+07 Dec 2019  05:09 PM            86,528 colorcpl.exe
+07 Dec 2019  05:09 PM            81,408 dccw.exe
+07 Dec 2019  05:09 PM             9,728 secinit.exe
+07 Dec 2019  05:09 PM            40,448 sfc.exe
+07 Dec 2019  05:09 PM            12,288 Windows.Media.BackgroundPlayback.exe
+07 Dec 2019  05:09 PM            80,896 mcbuilder.exe
+07 Dec 2019  05:09 PM            46,080 shrpubw.exe
+07 Dec 2019  05:09 PM            65,024 getmac.exe
+07 Dec 2019  05:09 PM            59,904 NetCfgNotifyObjectHost.exe
+07 Dec 2019  05:09 PM            66,560 driverquery.exe
+07 Dec 2019  05:09 PM            11,776 InfDefaultInstall.exe
+07 Dec 2019  05:09 PM            78,336 powercfg.exe
+07 Dec 2019  05:09 PM            65,536 hdwwiz.exe
+07 Dec 2019  05:09 PM            31,744 rasphone.exe
+07 Dec 2019  05:09 PM            36,352 cmmon32.exe
+07 Dec 2019  05:09 PM            81,920 cmstp.exe
+07 Dec 2019  05:09 PM            46,592 cmdl32.exe
+07 Dec 2019  05:09 PM            13,824 icsunattend.exe
+07 Dec 2019  05:09 PM            37,888 SecEdit.exe
+07 Dec 2019  05:09 PM            15,360 RmClient.exe
+07 Dec 2019  05:09 PM            73,216 dpapimig.exe
+07 Dec 2019  05:09 PM            17,408 cmdkey.exe
+07 Dec 2019  05:09 PM            11,776 verclsid.exe
+07 Dec 2019  05:09 PM            22,528 fc.exe
+07 Dec 2019  05:09 PM           167,440 fsutil.exe
+07 Dec 2019  05:09 PM            12,288 recover.exe
+07 Dec 2019  05:09 PM            23,552 comp.exe
+07 Dec 2019  05:09 PM            29,696 findstr.exe
+07 Dec 2019  05:09 PM            16,896 PATHPING.EXE
+07 Dec 2019  05:09 PM            19,456 attrib.exe
+07 Dec 2019  05:09 PM            82,432 netsh.exe
+07 Dec 2019  05:09 PM            47,104 net.exe
+07 Dec 2019  05:09 PM            29,696 icacls.exe
+07 Dec 2019  05:09 PM            29,184 ipconfig.exe
+07 Dec 2019  05:09 PM            15,360 mountvol.exe
+07 Dec 2019  05:09 PM            32,768 NETSTAT.EXE
+07 Dec 2019  05:09 PM            13,824 finger.exe
+07 Dec 2019  05:09 PM            24,576 sort.exe
+07 Dec 2019  05:09 PM            14,336 MRINFO.EXE
+07 Dec 2019  05:09 PM            61,440 sc.exe
+07 Dec 2019  05:09 PM            10,752 TCPSVCS.EXE
+07 Dec 2019  05:09 PM            15,360 TRACERT.EXE
+07 Dec 2019  05:09 PM            22,528 ARP.EXE
+07 Dec 2019  05:09 PM            59,392 reg.exe
+07 Dec 2019  05:09 PM            18,944 PING.EXE
+07 Dec 2019  05:09 PM            19,456 ROUTE.EXE
+07 Dec 2019  05:09 PM            11,776 HOSTNAME.EXE
+07 Dec 2019  05:09 PM            46,592 setx.exe
+07 Dec 2019  05:09 PM            44,032 OposHost.exe
+07 Dec 2019  05:09 PM            43,520 xcopy.exe
+07 Dec 2019  05:09 PM            72,192 cttune.exe
+07 Dec 2019  05:09 PM            10,240 help.exe
+07 Dec 2019  05:09 PM            24,576 clip.exe
+07 Dec 2019  05:09 PM            19,456 convert.exe
+07 Dec 2019  05:09 PM            28,160 choice.exe
+07 Dec 2019  05:09 PM            41,472 forfiles.exe
+07 Dec 2019  05:09 PM            18,944 replace.exe
+07 Dec 2019  05:09 PM            16,896 doskey.exe
+07 Dec 2019  05:09 PM            60,416 openfiles.exe
+07 Dec 2019  05:09 PM            14,848 print.exe
+07 Dec 2019  05:09 PM           111,616 stordiag.exe
+07 Dec 2019  05:09 PM            15,360 ktmutil.exe
+07 Dec 2019  05:09 PM            15,360 label.exe
+07 Dec 2019  05:09 PM            14,848 find.exe
+07 Dec 2019  05:09 PM            14,848 subst.exe
+07 Dec 2019  05:09 PM            83,968 DevicePairingWizard.exe
+07 Dec 2019  05:09 PM            67,584 ComputerDefaults.exe
+07 Dec 2019  05:09 PM             8,192 dplaysvr.exe
+07 Dec 2019  05:10 PM             8,192 dpnsvr.exe
+07 Dec 2019  05:10 PM            77,312 DpiScaling.exe
+07 Dec 2019  05:10 PM           222,720 dxdiag.exe
+07 Dec 2019  05:10 PM           352,768 esentutl.exe
+07 Dec 2019  05:10 PM           303,616 eudcedit.exe
+07 Dec 2019  05:10 PM            81,408 eventvwr.exe
+07 Dec 2019  05:10 PM           119,808 EhStorAuthn.exe
+07 Dec 2019  05:10 PM            16,384 hh.exe
+07 Dec 2019  05:10 PM            13,312 mshta.exe
+07 Dec 2019  05:10 PM           152,064 iexpress.exe
+07 Dec 2019  05:10 PM           136,192 wextract.exe
+07 Dec 2019  05:10 PM            13,312 msfeedssync.exe
+07 Dec 2019  05:10 PM           122,880 ieUnatt.exe
+07 Dec 2019  05:10 PM            10,240 iscsicpl.exe
+07 Dec 2019  05:10 PM            72,192 odbcad32.exe
+07 Dec 2019  05:10 PM            22,016 odbcconf.exe
+07 Dec 2019  05:10 PM            28,672 cliconfg.exe
+07 Dec 2019  05:10 PM            59,904 msiexec.exe
+07 Dec 2019  05:10 PM           107,008 Fondue.exe
+07 Dec 2019  05:10 PM           109,056 resmon.exe
+07 Dec 2019  05:10 PM           163,840 perfmon.exe
+07 Dec 2019  05:10 PM            10,240 regedt32.exe
+07 Dec 2019  05:10 PM            41,472 regini.exe
+07 Dec 2019  05:10 PM            20,992 regsvr32.exe
+07 Dec 2019  05:10 PM           173,056 charmap.exe
+07 Dec 2019  05:10 PM            29,696 credwiz.exe
+07 Dec 2019  05:10 PM            26,112 calc.exe
+07 Dec 2019  05:10 PM            10,240 dvdplay.exe
+07 Dec 2019  05:10 PM            93,696 mobsync.exe
+07 Dec 2019  05:10 PM            14,848 tcmsetup.exe
+07 Dec 2019  05:10 PM            32,256 dialer.exe
+07 Dec 2019  05:10 PM            12,800 TapiUnattend.exe
+07 Dec 2019  05:10 PM            21,504 sdiagnhost.exe
+07 Dec 2019  05:10 PM            33,280 RdpSaProxy.exe
+07 Dec 2019  05:10 PM            27,648 RdpSaUacHelper.exe
+07 Dec 2019  05:10 PM            48,128 RdpSa.exe
+07 Dec 2019  05:10 PM            27,648 cacls.exe
+07 Dec 2019  05:10 PM            32,768 waitfor.exe
+07 Dec 2019  05:10 PM            25,088 timeout.exe
+07 Dec 2019  05:10 PM            33,280 where.exe
+07 Dec 2019  05:10 PM            40,448 grpconv.exe
+07 Dec 2019  05:10 PM            76,800 systeminfo.exe
+07 Dec 2019  05:10 PM            74,240 taskkill.exe
+07 Dec 2019  05:10 PM            58,880 whoami.exe
+07 Dec 2019  05:10 PM            79,360 tasklist.exe
+07 Dec 2019  05:10 PM            34,304 eventcreate.exe
+07 Dec 2019  05:10 PM            48,640 ftp.exe
+07 Dec 2019  05:10 PM            51,712 takeown.exe
+07 Dec 2019  05:10 PM            55,808 xwizard.exe
+07 Dec 2019  05:10 PM            16,384 srdelayed.exe
+07 Dec 2019  05:10 PM           256,000 PresentationHost.exe
+07 Dec 2019  05:53 PM        30,870,320 OneDriveSetup.exe
+07 Dec 2019  05:53 PM            40,480 mfpmp.exe
+07 Dec 2019  05:53 PM            25,600 WPDShextAutoplay.exe
+27 May 2021  06:32 PM           359,544 atieah32.exe
+27 May 2021  06:33 PM         1,446,520 vulkaninfo.exe
+27 May 2021  06:33 PM         1,446,520 vulkaninfo-1-999-0-0-0.exe
+06 Oct 2021  11:22 AM            10,752 agentactivationruntimestarter.exe
+06 Oct 2021  11:22 AM            49,024 CloudNotifications.exe
+06 Oct 2021  11:22 AM            29,696 sxstrace.exe
+06 Oct 2021  11:22 AM            73,728 InputSwitchToastHandler.exe
+06 Oct 2021  11:22 AM            38,184 PasswordOnWakeSettingFlyout.exe
+06 Oct 2021  11:22 AM            39,184 UserAccountBroker.exe
+06 Oct 2021  11:22 AM           150,528 diskpart.exe
+06 Oct 2021  11:22 AM            36,864 ReAgentc.exe
+06 Oct 2021  11:22 AM            34,304 BackgroundTransferHost.exe
+06 Oct 2021  11:22 AM           886,080 WWAHost.exe
+06 Oct 2021  11:22 AM            16,896 WinRTNetMUAHostServer.exe
+06 Oct 2021  11:22 AM            66,560 SystemUWPLauncher.exe
+06 Oct 2021  11:22 AM            17,728 backgroundTaskHost.exe
+06 Oct 2021  11:22 AM         1,029,632 mmgaserver.exe
+06 Oct 2021  11:22 AM           236,544 cmd.exe
+06 Oct 2021  11:22 AM            68,608 AtBroker.exe
+06 Oct 2021  11:22 AM            81,920 sethc.exe
+06 Oct 2021  11:22 AM            96,256 EaseOfAccessDialog.exe
+06 Oct 2021  11:22 AM            97,280 Utilman.exe
+06 Oct 2021  11:22 AM           964,776 Taskmgr.exe
+06 Oct 2021  11:22 AM            10,240 LaunchTM.exe
+06 Oct 2021  11:22 AM           135,680 pcaui.exe
+06 Oct 2021  11:22 AM            20,992 appidtel.exe
+06 Oct 2021  11:22 AM           118,784 setupugc.exe
+06 Oct 2021  11:22 AM            19,256 dllhost.exe
+06 Oct 2021  11:22 AM            24,576 fltMC.exe
+06 Oct 2021  11:22 AM            83,968 MuiUnattend.exe
+06 Oct 2021  11:22 AM           225,104 Dism.exe
+06 Oct 2021  11:22 AM            47,104 runonce.exe
+06 Oct 2021  11:22 AM             4,608 user.exe
+06 Oct 2021  11:22 AM            26,112 setup16.exe
+06 Oct 2021  11:22 AM             8,704 instnm.exe
+06 Oct 2021  11:22 AM            22,016 netbtugc.exe
+06 Oct 2021  11:22 AM            25,600 netiougc.exe
+06 Oct 2021  11:22 AM            67,584 newdev.exe
+06 Oct 2021  11:22 AM            65,536 ndadmin.exe
+06 Oct 2021  11:22 AM            15,360 wowreg32.exe
+06 Oct 2021  11:22 AM            62,464 printui.exe
+06 Oct 2021  11:22 AM            15,360 rasautou.exe
+06 Oct 2021  11:22 AM           144,896 cscript.exe
+06 Oct 2021  11:22 AM           147,456 wscript.exe
+06 Oct 2021  11:22 AM            61,440 rundll32.exe
+06 Oct 2021  11:22 AM            24,064 prevhost.exe
+06 Oct 2021  11:22 AM            28,160 ThumbnailExtractionHost.exe
+06 Oct 2021  11:22 AM           107,368 OpenWith.exe
+06 Oct 2021  11:23 AM           932,352 GamePanel.exe
+06 Oct 2021  11:23 AM            35,328 upnpcont.exe
+06 Oct 2021  11:23 AM            32,768 auditpol.exe
+06 Oct 2021  11:23 AM            35,328 cttunesvr.exe
+06 Oct 2021  11:23 AM            97,280 dfrgui.exe
+06 Oct 2021  11:23 AM            38,912 SyncHost.exe
+06 Oct 2021  11:23 AM            76,800 wecutil.exe
+06 Oct 2021  11:23 AM            25,088 gpupdate.exe
+06 Oct 2021  11:23 AM           190,464 gpresult.exe
+06 Oct 2021  11:23 AM            84,480 wiaacmgr.exe
+06 Oct 2021  11:23 AM           107,008 isoburn.exe
+06 Oct 2021  11:23 AM           329,728 regedit.exe
+06 Oct 2021  11:23 AM            56,320 TSTheme.exe
+06 Oct 2021  11:23 AM           338,432 msinfo32.exe
+06 Oct 2021  11:23 AM           147,280 mavinject.exe
+06 Oct 2021  11:23 AM            37,888 gpscript.exe
+06 Oct 2021  11:24 AM            37,888 rrinstaller.exe
+06 Oct 2021  11:24 AM            88,064 logagent.exe
+06 Oct 2021  11:24 AM            28,344 CameraSettingsUIHost.exe
+06 Oct 2021  11:24 AM            40,960 sdchange.exe
+06 Oct 2021  11:24 AM           107,520 raserver.exe
+06 Oct 2021  11:24 AM            76,800 msra.exe
+29 Apr 2022  02:09 PM           392,704 poqexec.exe
+21 Nov 2022  04:49 AM           229,888 PkgMgr.exe
+21 Nov 2022  04:49 AM           132,096 SpatialAudioLicenseSrv.exe
+21 Nov 2022  04:49 AM             8,192 wscadminui.exe
+21 Nov 2022  04:49 AM           478,720 RMActivate_ssp.exe
+21 Nov 2022  04:49 AM           541,184 RMActivate.exe
+21 Nov 2022  04:49 AM           558,080 RMActivate_isv.exe
+21 Nov 2022  04:49 AM           223,744 TpmTool.exe
+21 Nov 2022  04:49 AM         4,493,040 explorer.exe
+21 Nov 2022  04:49 AM           149,504 control.exe
+21 Nov 2022  04:49 AM           187,904 schtasks.exe
+21 Nov 2022  04:49 AM            36,352 TokenBrokerCookies.exe
+21 Nov 2022  04:49 AM            34,304 LaunchWinApp.exe
+21 Nov 2022  04:49 AM            16,384 fixmapi.exe
+21 Nov 2022  04:49 AM            35,840 WSManHTTPConfig.exe
+21 Nov 2022  04:49 AM            37,376 wsmprovhost.exe
+21 Nov 2022  04:49 AM            62,976 ByteCodeGenerator.exe
+21 Nov 2022  04:49 AM            98,104 PickerHost.exe
+21 Nov 2022  04:49 AM           340,992 SearchProtocolHost.exe
+21 Nov 2022  04:49 AM           229,376 SearchFilterHost.exe
+21 Nov 2022  04:49 AM           712,192 SearchIndexer.exe
+21 Nov 2022  04:49 AM           213,776 ttdinject.exe
+21 Nov 2022  04:49 AM            72,544 tttracer.exe
+21 Nov 2022  04:49 AM            51,200 CertEnrollCtrl.exe
+21 Nov 2022  04:49 AM           208,384 wevtutil.exe
+21 Nov 2022  04:49 AM           516,096 Magnify.exe
+21 Nov 2022  04:49 AM            20,992 sdbinst.exe
+21 Nov 2022  04:49 AM           226,712 SndVol.exe
+21 Nov 2022  04:49 AM           863,232 autochk.exe
+21 Nov 2022  04:49 AM            49,600 svchost.exe
+21 Nov 2022  04:49 AM            45,568 userinit.exe
+21 Nov 2022  04:49 AM            91,648 dtdump.exe
+21 Nov 2022  04:49 AM           202,600 wermgr.exe
+21 Nov 2022  04:49 AM           489,320 WerFault.exe
+21 Nov 2022  04:49 AM           152,936 WerFaultSecure.exe
+21 Nov 2022  04:49 AM           676,584 fontdrvhost.exe
+21 Nov 2022  04:49 AM           114,152 CredentialUIBroker.exe
+21 Nov 2022  04:49 AM            49,152 edpnotify.exe
+21 Nov 2022  04:49 AM           111,104 rekeywiz.exe
+21 Nov 2022  04:49 AM           325,120 wusa.exe
+21 Nov 2022  04:49 AM            62,464 ntprint.exe
+21 Nov 2022  04:49 AM            19,456 rasdial.exe
+21 Nov 2022  04:49 AM           790,328 SettingSyncHost.exe
+21 Nov 2022  04:50 AM           231,424 GameBarPresenceWriter.exe
+21 Nov 2022  04:50 AM           139,776 net1.exe
+21 Nov 2022  04:50 AM            44,544 tar.exe
+21 Nov 2022  04:50 AM           464,384 curl.exe
+21 Nov 2022  04:50 AM           273,920 cleanmgr.exe
+21 Nov 2022  04:50 AM           822,272 autofmt.exe
+21 Nov 2022  04:50 AM           842,752 autoconv.exe
+21 Nov 2022  04:50 AM           131,072 Robocopy.exe
+21 Nov 2022  04:50 AM           189,440 DWWIN.EXE
+21 Nov 2022  04:50 AM            44,032 iscsicli.exe
+21 Nov 2022  04:50 AM         1,440,256 mmc.exe
+21 Nov 2022  04:50 AM            26,112 CheckNetIsolation.exe
+21 Nov 2022  04:50 AM            98,816 logman.exe
+21 Nov 2022  04:50 AM            45,568 relog.exe
+21 Nov 2022  04:50 AM            41,984 typeperf.exe
+21 Nov 2022  04:50 AM           399,360 tracerpt.exe
+21 Nov 2022  04:50 AM            21,504 diskperf.exe
+21 Nov 2022  04:50 AM           439,296 certreq.exe
+21 Nov 2022  04:50 AM         1,277,440 certutil.exe
+21 Nov 2022  04:50 AM           387,584 msdt.exe
+21 Nov 2022  04:50 AM         1,264,640 mstsc.exe
+21 Nov 2022  04:50 AM            17,920 runas.exe
+21 Nov 2022  04:50 AM            45,056 provlaunch.exe
+             315 File(s)     76,893,112 bytes
+
+ Directory of c:\Windows\System32\Com
+
+07 Dec 2019  05:09 PM            14,848 comrepl.exe
+07 Dec 2019  05:09 PM            11,264 MigRegDB.exe
+               2 File(s)         26,112 bytes
+
+ Directory of c:\Windows\System32\Dism
+
+06 Oct 2021  11:22 AM           114,000 DismHost.exe
+               1 File(s)        114,000 bytes
+
+ Directory of c:\Windows\System32\DriverStore\FileRepository\amdfendr.inf_amd64_d769a8c3fe3072f4
+
+30 Apr 2021  09:53 PM           517,536 amdfendrsr.exe
+               1 File(s)        517,536 bytes
+
+ Directory of c:\Windows\System32\DriverStore\FileRepository\mp280p6.inf_amd64_45bd93e11c16aa86
+
+14 Mar 2012  05:00 AM            60,528 CNMVS.EXE
+14 Mar 2012  05:00 AM            20,592 CNMSE.EXE
+               2 File(s)         81,120 bytes
+
+ Directory of c:\Windows\System32\DriverStore\FileRepository\ts2006.inf_amd64_06d833aabc269bfe
+
+06 Jun 2017  05:00 AM           390,288 CNMVS.EXE
+06 Jun 2017  05:00 AM           383,624 CNMSE.EXE
+               2 File(s)        773,912 bytes
+
+ Directory of c:\Windows\System32\DriverStore\FileRepository\u0367912.inf_amd64_1567db284dfba458\B366469
+
+27 May 2021  06:31 PM           474,232 amdlogum.exe
+27 May 2021  06:32 PM           464,040 atieah64.exe
+27 May 2021  06:32 PM           359,544 atieah32.exe
+27 May 2021  06:32 PM           536,696 atiesrxx.exe
+27 May 2021  06:32 PM           807,072 atieclxx.exe
+27 May 2021  06:33 PM           354,440 clinfo.exe
+27 May 2021  06:33 PM           500,872 dgtrayicon.exe
+27 May 2021  06:33 PM           440,456 EEURestart.exe
+27 May 2021  06:33 PM         1,446,520 vulkaninfo32.exe
+27 May 2021  06:33 PM         1,865,840 vulkaninfo64.exe
+              10 File(s)      7,249,712 bytes
+
+ Directory of c:\Windows\System32\F12
+
+06 Oct 2021  11:23 AM           160,768 IEChooser.exe
+               1 File(s)        160,768 bytes
+
+ Directory of c:\Windows\System32\IME\IMEJP
+
+07 Dec 2019  05:10 PM           449,536 IMJPDCT.EXE
+07 Dec 2019  05:10 PM            92,160 IMJPUEX.EXE
+07 Dec 2019  05:10 PM           135,168 IMJPSET.EXE
+06 Oct 2021  11:23 AM           291,328 imjpuexc.exe
+               4 File(s)        968,192 bytes
+
+ Directory of c:\Windows\System32\IME\IMETC
+
+07 Dec 2019  05:10 PM           445,440 IMTCPROP.exe
+07 Dec 2019  05:10 PM            95,232 IMTCLNWZ.EXE
+               2 File(s)        540,672 bytes
+
+ Directory of c:\Windows\System32\IME\SHARED
+
+07 Dec 2019  05:10 PM           302,080 IMEWDBLD.EXE
+07 Dec 2019  05:10 PM           293,376 IMEPADSV.EXE
+07 Dec 2019  05:10 PM           395,776 IMCCPHR.exe
+06 Oct 2021  11:23 AM           252,416 imecfmui.exe
+06 Oct 2021  11:23 AM           152,064 IMESEARCH.EXE
+               5 File(s)      1,395,712 bytes
+
+ Directory of c:\Windows\System32\InstallShield
+
+07 Dec 2019  05:10 PM            27,648 _isdel.exe
+07 Dec 2019  05:10 PM            71,680 setup.exe
+               2 File(s)         99,328 bytes
+
+ Directory of c:\Windows\System32\Speech_OneCore\Common
+
+21 Nov 2022  04:49 AM           141,824 SpeechModelDownload.exe
+               1 File(s)        141,824 bytes
+
+ Directory of c:\Windows\System32\wbem
+
+07 Dec 2019  05:09 PM            79,360 WinMgmt.exe
+06 Oct 2021  11:22 AM           418,304 WmiPrvSE.exe
+21 Nov 2022  04:49 AM           427,008 WMIC.exe
+21 Nov 2022  04:49 AM            26,624 mofcomp.exe
+21 Nov 2022  04:49 AM           129,024 WMIADAP.exe
+               5 File(s)      1,080,320 bytes
+
+ Directory of c:\Windows\System32\WindowsPowerShell\v1.0
+
+07 Dec 2019  12:50 AM           213,504 powershell_ise.exe
+06 Oct 2021  11:24 AM           433,152 powershell.exe
+               2 File(s)        646,656 bytes
+
+     Total Files Listed:
+             355 File(s)     90,688,976 bytes
+               0 Dir(s)  13,682,139,136 bytes free
