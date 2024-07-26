@@ -2,3 +2,9 @@ C:\Windows\System32\cmd.exe
 C:\Windows\System32\mspaint.exe
 c:\Windows\System32\taskhostw.exe
 C:\Windows\System32\PING.EXE
+c:\Windows\System32\RuntimeBroker.exe
+
+C:\Windows\SystemApps\InputApp_cw5n1h2txyewy\WindowsInternal.ComposableShell.Experiences.TextInput.InputApp.exe
+C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe
+
+C:\Windows\System32\smartscreen.exe
