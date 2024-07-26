@@ -1,0 +1,4 @@
+C:\Windows\System32\cmd.exe
+C:\Windows\System32\mspaint.exe
+c:\Windows\System32\taskhostw.exe
+C:\Windows\System32\PING.EXE
